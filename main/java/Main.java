@@ -15,6 +15,18 @@ public class Main {
 
     public static void main(String[] args) {
         Main userInputExample = new Main(System.in, System.out);
+        userInputExample.start();
+    }
+
+    public void start() {
+        double result;
+        while (true) {
+            printStream.println("F or C ?");
+            String mode = scanner.nextLine();
+
+        }
+
+
     }
 
 }
