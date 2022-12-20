@@ -3,8 +3,7 @@
 *.aar
 *.ap_
 *.aab
-.idea
-target
+
 # Files for the ART/Dalvik VM
 *.dex
 
